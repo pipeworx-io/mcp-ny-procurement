@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/ny-procurement",
+  "title": "Ny Procurement",
+  "description": "New York State Procurement MCP — State contract awards & procurement (keyless).",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/ny-procurement",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-ny-procurement",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/ny-procurement/mcp"
+    }
+  ]
+}
