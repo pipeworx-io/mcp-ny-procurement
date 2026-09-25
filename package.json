@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ny-procurement",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "New York State Procurement MCP — State contract awards & procurement (keyless).",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-344315fede011500618655b7f6831a7cd00849c8802dff193fa6b8ecb9065611",
+    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
   }
 }

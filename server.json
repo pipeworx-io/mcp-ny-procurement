@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ny-procurement",
   "title": "Ny Procurement",
   "description": "New York State Procurement MCP — State contract awards & procurement (keyless).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ny-procurement",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ny-procurement",
